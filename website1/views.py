@@ -3,6 +3,6 @@ from django.http import HttpResponse
    
 
 def fun(request):
-    return HttpResponse('<h1>hello Ashok it<h1/>')
+    return HttpResponse('<h1>hello Ashok it at hydyrabad<h1/>')
 
 
